@@ -1,5 +1,3 @@
-# FahadPhisher
-
 <h1 align="center">MaxPhisher</h1>
 
 <p align="center">
@@ -82,7 +80,7 @@ BSD        | Never tested
 #### Options
 
 ```
-usage:fahadphisher.py [-h] [-p PORT] [-t TYPE] [-o OPTION]
+usage: maxphisher.py [-h] [-p PORT] [-t TYPE] [-o OPTION]
                      [-T TUNNELER] [-r REGION] [-S SUBDOMAIN]
                      [-d DIRECTORY] [-f FEST] [-i YTID] [-u URL]
                      [-s DURATION] [-m MODE] [-e TROUBLESHOOT]
@@ -169,7 +167,7 @@ If not found, php, ssh and python modoules will be installed on first run
 
 <h1 align="center">Example</h1>
 
-![Visit MY wesite](https://fahad786.vq.pe/)
+![MaxPhisher](https://raw.githubusercontent.com/KasRoudra/MaxPhisher/main/files/maxphisher.gif)
 
  
 ## Solution of common issues
@@ -187,11 +185,21 @@ If not found, php, ssh and python modoules will be installed on first run
 ###### Donate BTC: ***3Lx8ikQQgZZpmFJzHDBuQHXzLXMeWMcZF3***
 
 ## Credits:
-[PyPhisher](https://github.com/fahad955/FahadPhisher/)
-[CamHacker](https://github.com/fahad955/FahadPhisher/)
-[VidPhisher](https://github.com/fahad955/FahadPhisher/)
-[IP-Tracker](https://github.com/fahad955/FahadPhisher/)
-[Storm-Breaker](https://github.com/fahad955/FahadPhisher/)
-[Seeker](https://github.com/fahad955/FahadPhisher/)
+[PyPhisher](https://github.com/KasRoudra/PyPhisher)
+[CamHacker](https://github.com/KasRoudra/CamHacker)
+[VidPhisher](https://github.com/KasRoudra/VidPhisher)
+[IP-Tracker](https://github.com/KasRoudra/IP-Tracker)
+[Storm-Breaker](https://github.com/ultrasecurity/Storm-Breaker)
+[Seeker](https://github.com/thewhiteh4t/seeker)
 
+## [~] Find Me on :
 
+- [![Github](https://img.shields.io/badge/Github-KasRoudra-green?style=for-the-badge&logo=github)](https://github.com/KasRoudra)
+
+- [![Gmail](https://img.shields.io/badge/Gmail-KasRoudra-green?style=for-the-badge&logo=gmail)](mailto:kasroudrakrd@gmail.com)
+
+- [![Facebook](https://img.shields.io/badge/Facebook-KasRoudra-green?style=for-the-badge&logo=facebook)](https://facebook.com/KasRoudra)
+
+- [![Messenger](https://img.shields.io/badge/Messenger-KasRoudra-green?style=for-the-badge&logo=messenger)](https://m.me/KasRoudra)
+
+- [![Telegram](https://img.shields.io/badge/Telegram-KasRoudra-indigo?style=for-the-badge&logo=telegram)](https://t.me/KasRoudra)
